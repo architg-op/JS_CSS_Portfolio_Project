@@ -45,7 +45,7 @@ function pageTransitions() {
 
 function submitBtn() {
   alert(
-    "Submitting information is not supported at this moment\n\nDrop an Email/Text/Whatsapp to Business aliases of Archit(Recommended)"
+    "Submitting information is not supported at this moment\n\nDrop an Email/Text/Whatsapp to the above-mentioned aliases of Archit (Recommended)"
   );
 }
 
