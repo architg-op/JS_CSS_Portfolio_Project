@@ -1,1 +1,1 @@
-Deployed on - https://www.brandarchit.com
+Deployed ar - https://www.architgarg.me
